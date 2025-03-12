@@ -1,2 +1,3 @@
-x = 10
-'x: ', x 
+import streamlit as st
+
+st.write('Hello world!')
